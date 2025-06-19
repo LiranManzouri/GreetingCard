@@ -1,0 +1,7 @@
+.card {
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+    border-radius: 8px;
+}
